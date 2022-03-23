@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathCoins", "MathCoins\MathCoins.csproj", "{36799C0D-D09B-4A77-A3DF-0586372ACA2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36799C0D-D09B-4A77-A3DF-0586372ACA2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36799C0D-D09B-4A77-A3DF-0586372ACA2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36799C0D-D09B-4A77-A3DF-0586372ACA2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36799C0D-D09B-4A77-A3DF-0586372ACA2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD88D4C6-48A1-4D17-A259-FCA5E0CDEB79}
+	EndGlobalSection
+EndGlobal
